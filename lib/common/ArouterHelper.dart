@@ -8,10 +8,10 @@ class ARouterHelper {
 
     static ArouterConfig arouterConfig = new ArouterConfig();
 
-    static push(context,url,callback){
+    static push(context,url,param){
       Navigator.of(context).push(
           MaterialPageRoute(builder: (context){
-            return pageFromUrlAndQuery(url,null);
+            return arouterConfig.getPage(new MyRouteOption(url, param)).widget;;
           }));
     }
 

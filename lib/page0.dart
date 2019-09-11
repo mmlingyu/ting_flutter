@@ -121,12 +121,12 @@ class _Page0State extends State<Page0> with TickerProviderStateMixin {
     list.insert(0, Center(child:GestureDetector(
         onTap: () {
           TtsHelper.instance.setLanguageAndSpeak("发现", "zh");
-        },child: Text('发现'))));
-    list.insert(1, Center(child:Text('推荐')));
-    list.insert(2, Center(child:Text('运动')));
-    list.insert(3, Center(child:Text('影视')));
-    list.insert(4, Center(child:Text('音乐')));
-    list.insert(5, Center(child:Text('娱乐')));
+        },child: Text('推荐'))));
+    list.insert(1, Center(child:Text('一年级')));
+    list.insert(2, Center(child:Text('二年级')));
+    list.insert(3, Center(child:Text('三年级')));
+    list.insert(4, Center(child:Text('四年级')));
+    list.insert(5, Center(child:Text('五年级')));
 
 
    /* ids.forEach((it) {

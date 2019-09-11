@@ -38,7 +38,7 @@ class _PoetryItemWidgetState extends State<PoetryItemWidget> {
     new Padding(padding: EdgeInsets.fromLTRB(0, 6, 2, 6),child:
         new Text(widget._peotryVo.author,style: TextStyle(fontSize: 16,color: ColorsConfig.PRIMARY_GRAY_999),textAlign: TextAlign.left,maxLines: 1)),
     new Padding(padding: EdgeInsets.fromLTRB(2, 6, 2, 0),child:
-        new Text(widget._peotryVo.intro,style: TextStyle(fontSize: 14,color: ColorsConfig.PRIMARY_GRAY_999),textAlign: TextAlign.left,maxLines: 1)),
+    Container(width:220,child: new Text(widget._peotryVo.intro,style: TextStyle(fontSize: 14,color: ColorsConfig.PRIMARY_GRAY_999),textAlign: TextAlign.left,maxLines: 1,overflow: TextOverflow.ellipsis,))),
       ],crossAxisAlignment: CrossAxisAlignment.start,mainAxisAlignment: MainAxisAlignment.center,),padding:EdgeInsets.fromLTRB(8,2,2,2)) ,
 
     ],verticalDirection: VerticalDirection.down);

@@ -7,6 +7,8 @@ import 'package:ainong/widget/HScrollWidget.dart';
 import 'package:ainong/widget/RecommendListWidget.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 
+import 'common/PeotryWidget.dart';
+
 final IndexModel _indexModel = IndexModel();
 
 class IndexWidget extends StatefulWidget {

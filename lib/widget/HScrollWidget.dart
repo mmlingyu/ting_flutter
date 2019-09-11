@@ -51,7 +51,8 @@ class _HScrollWidgetState extends State<HScrollWidget>{
 
       widgets.add(new Container(
         width: 100.0,
-        color: widgets.length%2==0?Colors.red:Colors.yellow,
+        //color: widgets.length%2==0?ColorsConfig.primaryColor:ColorsConfig.PRIMARY_YELLOW,
+        color: ColorsConfig.PRIMARY_WHITE,
         padding: EdgeInsets.all(6),
         child: new SingleImageWithText(layoutDirection:LayoutDirection.bottom,assetImage: family.assetsImage,text: family.title),
       ));

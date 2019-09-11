@@ -19,7 +19,6 @@ class HomePage extends StatefulWidget{
     this.option = option;
   }
 
-
   @override
   State<StatefulWidget> createState() {
     return new _HomeState();
@@ -29,11 +28,11 @@ class HomePage extends StatefulWidget{
 
 class _HomeState extends State<HomePage> with TickerProviderStateMixin{
 
-  var titles = ['首页', '关注', '通知', '我的'];
+  var titles = ['首页', '故事', '动态', '我的'];
   List<StatefulWidget> _pageList= <StatefulWidget>[
     IndexWidget(),
-    Page1(),
     Page0(),
+    Page1(),
     Page0(),
   ];
   var icons = [
@@ -52,7 +51,7 @@ class _HomeState extends State<HomePage> with TickerProviderStateMixin{
   @override
   Widget build(BuildContext context) {
     //Toast.toast(context, widget.option.toString());
-    titles[3]=widget.option.params['test'];
+    //titles[3]=widget.option.params['test'];
     return new NavgationBottom(icons, icons_selcect, titles, _pageList);
 
   }

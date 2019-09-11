@@ -13,4 +13,6 @@ class Constant {
 
   static final pic_url =
       "https://upload.jianshu.io/collections/images/16/computer_guy.jpg";
+
+  static final MAIN_FIRST_ENTER = "first_enter";
 }

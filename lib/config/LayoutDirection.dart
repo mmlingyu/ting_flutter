@@ -3,5 +3,8 @@
 enum LayoutDirection{
 
      top,
-     bottom
+     bottom,
+     left,
+     right
+
 }

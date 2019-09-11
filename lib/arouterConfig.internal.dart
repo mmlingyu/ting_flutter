@@ -8,15 +8,543 @@ import 'dart:convert';
 import 'package:annotation_route/route.dart';
 import 'package:ainong/home.dart';
 import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
+import 'package:ainong/home.dart';
+import 'package:ainong/widget/PeotryDetailWidget.dart';
 
 class ARouterInternalImpl extends ARouterInternal {
   ARouterInternalImpl();
   final Map<String, List<Map<String, dynamic>>> innerRouterMap =
       <String, List<Map<String, dynamic>>>{
     'ainong://home': [
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
+      {'clazz': HomePage},
       {'clazz': HomePage}
     ],
     'ainong://peotry_detail': [
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
+      {'clazz': PeotryDetailWidget},
       {'clazz': PeotryDetailWidget}
     ]
   };
